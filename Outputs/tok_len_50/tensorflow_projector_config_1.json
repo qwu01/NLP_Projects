@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "vis", "tensorShape": [80536, 2], "tensorPath": "https://raw.githubusercontent.com/qwu01/NLP_Projects/master/Outputs/tok_len_50/umap_embeddings_1.tsv", "metadataPath": "https://raw.githubusercontent.com/qwu01/NLP_Projects/master/Outputs/tok_len_50/umap_embeddings_labels_1.tsv"}]}
