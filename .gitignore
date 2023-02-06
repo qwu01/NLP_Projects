@@ -1,6 +1,6 @@
 .venv
 Data
 *.png
-*.ipynb
 cedar
-*.py
+TakeYeast
+Outputs
